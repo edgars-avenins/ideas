@@ -26,3 +26,9 @@ npm run server
 ```
 The client will be available on http://localhost:8080 and the server on http://localhost:3000. Note that you will still need to manage CORS between the two, as they are on different ports.
 
+Ideas for final project
+Voice activated assistant for after graduation staying on track. Look into links(inc. audio visualization)
+https://codeburst.io/html5-speech-recognition-api-670846a50e92
+https://www.reddit.com/r/LanguageTechnology/comments/a0l3eq/is_there_a_speech_recognition_api_which_matches/
+https://www.airtightinteractive.com/2013/10/making-audio-reactive-visuals/
+https://therewasaguy.github.io/p5-music-viz/
