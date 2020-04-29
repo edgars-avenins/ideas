@@ -34,6 +34,8 @@ https://www.airtightinteractive.com/2013/10/making-audio-reactive-visuals/
 https://therewasaguy.github.io/p5-music-viz/
 Ecommerce!          
 
-socket.io game chat-app mix with electron
+socket.io game chat-app
+
+exercise app - mobile first, add your exercise, press start for timer of input rep amount, no auth, save based on cookies, nosql db.. firebase???
 
 web crawler that returns sitemap.xml and filters most of it out for you to see hidden pages
