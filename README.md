@@ -34,6 +34,8 @@ https://www.airtightinteractive.com/2013/10/making-audio-reactive-visuals/
 https://therewasaguy.github.io/p5-music-viz/
 Ecommerce!          
 
+find that movie - finds a movie based on(actors, years, genre ????)
+
 socket.io game chat-app
 
 exercise app - mobile first, add your exercise, press start for timer of input rep amount, no auth, save based on cookies, nosql db.. firebase???
